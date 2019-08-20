@@ -203,6 +203,7 @@ public static void main(String[] args) {}
 + `>>>=`: Сдвиг вправо без учёта знака с присваиванием;
 + `<<`: Сдвиг влево (умножение на 2 в степени сдвига);
 + `<<=`: Сдвиг влево с присваиванием.
+https://www.vojtechruzicka.com/bit-manipulation-java-bitwise-bit-shift-operations/
 
 [к оглавлению](#java-core)
 
